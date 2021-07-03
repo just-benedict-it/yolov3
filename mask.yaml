@@ -1,0 +1,7 @@
+train: /content/mask_detection/images/train/ 
+val: /content/mask_detection/images/train/
+
+# number of classes
+nc: 3
+# class names
+names: [ 'mask', 'no mask', 'tucksk' ]
